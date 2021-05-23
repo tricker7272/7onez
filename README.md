@@ -1,4 +1,4 @@
-# Free RDP 6JAM
+# Free RDP 6 - 7 GB RAM
 
 <p align="center">
 <a href="https://www.codefactor.io/repository/github/adityagans2542/adityardp/badge"><img title="Rating" src="https://www.codefactor.io/repository/github/adityagans2542/adityardp/badge"></a>
