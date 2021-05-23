@@ -24,10 +24,11 @@ it's all free, don't be stingy ⭐️ yes: D
 ``
 
 ### Configuration
-
-💠 Free RDP via Github (CPU 2core - 7GB Ram - 256 SSD) 💠
+```
+CPU 2core - 7GB Ram - 256 SSD
 
 ### WARN
+```
 THIS IS ONLY FOR EDUCATIONAL PURPOSES
 
 DON'T USE FOR MINING OR ILLEGAL USE
