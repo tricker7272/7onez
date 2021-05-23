@@ -21,7 +21,6 @@ it's all free, don't be stingy ⭐️ yes: D
 > Refresh Web and go to CI> build
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
-``
 
 ### Configuration
 ```
