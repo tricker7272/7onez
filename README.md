@@ -1,18 +1,5 @@
 # Free RDP 6 - 7 GB RAM
 
-<p align="center">
-<a href="https://www.codefactor.io/repository/github/adityagans2542/adityardp/badge"><img title="Rating" src="https://www.codefactor.io/repository/github/adityagans2542/adityardp/badge"></a>
-<p align="center">
-<a href="https://github.com/AdityaGans2642"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ADITYA-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Oshekher/followers"><img title="Followers" src="https://img.shields.io/github/followers/AdityaGans2542?color=blue&style=flat-square"></a>
-<a href="https://github.com/Oshekher/AdityaRDP/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AdityaGans2542/AdityaRDP?color=red&style=flat-square"></a>
-<a href="https://github.com/Oshekher/AdityaRDP/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AdityaGans2542/AdityaRDP?color=red&style=flat-square"></a>
-<a href="https://github.com/Oshekher/AdityaRDP/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AdityaGans2542/AdityaRDP?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAdityaGans2542%2FAdityaRDP&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-</p>
-
 it's all free, don't be stingy ⭐️ yes: D
 
 ### HOW TO CREATE AdityaRDP
@@ -35,6 +22,10 @@ it's all free, don't be stingy ⭐️ yes: D
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 ``
+
+### Configuration
+
+💠 Free RDP via Github (CPU 2core - 7GB Ram - 256 SSD) 💠
 
 ### WARN
 
