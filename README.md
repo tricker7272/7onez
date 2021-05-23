@@ -1,4 +1,4 @@
-# Free RDP 6 - 7 GB RAM
+# Free RDP 6 HOURS
 
 it's all free, don't be stingy ⭐️ yes: D
 
