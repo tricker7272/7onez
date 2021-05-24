@@ -23,7 +23,7 @@ it's all free, don't be stingy ⭐️ yes: D
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 
 
-### Configuration
+# Configuration
 ```
 CPU 2core - 7GB Ram - 256 SSD
 
