@@ -23,7 +23,7 @@ it's all free, don't be stingy ⭐️ yes: D
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 
 ### WARN
-
+```
 THIS IS ONLY FOR EDUCATIONAL PURPOSES
 
 DON'T USE FOR MINING OR ILLEGAL USE
