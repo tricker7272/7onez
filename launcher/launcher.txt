@@ -1,4 +1,4 @@
 
-Ini Adalah Folder Launcher!
+This Is Folder Launcher!
 
-# Jangan Hapus Semua Isi Difolder ini!
+# Don't Delete All Contents in this Folder!
