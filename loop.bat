@@ -1,8 +1,8 @@
 @echo off
-echo AdityaRDP By AdityaGANS!
-tasklist | find /i "ngrok.exe" >Nul && goto check || echo "Tidak bisa mendapatkan NGROK tunnel, pastikan NGROK_AUTH_TOKEN benar di Settings> Secrets> Repository secret. Mungkin VM Anda sebelumnya masih berjalan: https://dashboard.ngrok.com/status/tunnels" & ping 127.0.0.1 >Nul & exit
+echo AdityaRDP By Oshekher!
+tasklist | find /i "ngrok.exe" >Nul && goto check || echo "Unable to get NGROK tunnel, be sure NGROK_AUTH_TOKEN right in Settings> Secrets> Repository secret. Maybe your previous VM is still running: https://dashboard.ngrok.com/status/tunnels" & ping 127.0.0.1 >Nul & exit
 :check
 ping 127.0.0.1 > nul
 cls
-echo AdityaRDP By AdityaGANS!
+echo AdityaRDP By Oshekher!
 goto check
