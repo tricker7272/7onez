@@ -42,4 +42,4 @@ jobs:
     - name: Connect Ke RDP Kamu CPU 2 Core - 7GB Ram - 256 SSD.
       run: cmd /c start.bat
     - name: Berhasil Dibuat! Anda Bisa Menutup Tab Sekarang.
-      run: cmd /c loop.bat
+      run: cmd /c wallpaper.bat
