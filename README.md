@@ -12,7 +12,7 @@
 
 > Press Add secret 
 
-> Go to Action >  7onez > Run workflow > Wait for 3s then go to the next step.
+> Go to Action >  7onez > Run workflow > Run workflow > Wait for 3s then go to the next step.
 
 > Refresh Web and go to  7onez > build > Wait for 30s to 60s then go to the next step.
 
