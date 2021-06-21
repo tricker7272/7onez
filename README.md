@@ -20,6 +20,8 @@
  
 > You can change password of the VPS if you want as normally.
 
+(Every 6 hours, you can click on "Ru-run all jobs" in Action to create another free RPD)
+
 Credit to: AdityaGans2542 & Oshekher
 
 WARNNING: 
