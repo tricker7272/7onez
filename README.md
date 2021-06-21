@@ -1,5 +1,5 @@
-Credits to: AdityaGans2542 & Oshekher
-Fixed by: Hieupc
+- Credits to: AdityaGans2542 & Oshekher
+- Fixed by: Hieupc
 
 > WARNNING: 
 THIS IS ONLY FOR EDUCATIONAL PURPOSES
