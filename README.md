@@ -20,7 +20,7 @@
  
 > You can change password of the VPS if you want as normally.
 
-(Every 6 hours, you can click on "Ru-run all jobs" in Action to create another free RPD)
+(Every 6 hours, you just delete the workflow and then create again - by repeating this step "Go to Action >  7onez > Run workflow > Wait for 3s then go to the next step." to create another free RPD)
 
 Credit to: AdityaGans2542 & Oshekher
 
