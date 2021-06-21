@@ -25,7 +25,7 @@ Fixed by: Hieupc
 
 > Use at your own risk.
 
-(Every 6 hours, you just delete the workflow run and then create again - by repeating this step "Go to Action >  7onez > Run workflow > Wait for 3s then go to the next step." to create another free RPD)
+(Every 6 hours, you just delete the workflow run and then create again - by repeating this step "Go to Action >  7onez > Run workflow > Run workflow" to create another free RPD)
 
 WARNNING: 
 THIS IS ONLY FOR EDUCATIONAL PURPOSES
