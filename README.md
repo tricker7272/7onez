@@ -1,5 +1,10 @@
 Credits to: AdityaGans2542 & Oshekher
 Fixed by: Hieupc
+WARNNING: 
+THIS IS ONLY FOR EDUCATIONAL PURPOSES
+DON'T USE FOR MINING OR ILLEGAL USE
+
+With this method, you can create as many RDPs as you want through Github.
 
 <img src="https://i.imgur.com/djAquTl.png" align="center">
 
@@ -26,7 +31,3 @@ Fixed by: Hieupc
 > Use at your own risk.
 
 (Every 6 hours, you just delete the workflow run and then create again - by repeating this step "Go to Action >  7onez > Run workflow > Run workflow" to create another free RPD)
-
-WARNNING: 
-THIS IS ONLY FOR EDUCATIONAL PURPOSES
-DON'T USE FOR MINING OR ILLEGAL USE
