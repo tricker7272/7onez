@@ -1,14 +1,4 @@
 <img src="https://github.com/AdityaGans2542/AdityaRDP/blob/main/wallpaper.png" width=900 height="600" align="center">
-<center>
-<p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/AdityaRDP-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://www.codefactor.io/repository/github/adityagans2542/adityardp/badge"><img title="Rating" src="https://www.codefactor.io/repository/github/adityagans2542/adityardp/badge"></a>
-<p align="center">
-<a href="https://github.com/AdityaGans2642"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ADITYA-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
-
 
 > Press the Fork button to create a Free AWS RDP 6 hours with 2CPU 7GB RAM 256 SSD (For Smartphones, Please Use Desktop Mode).
 
@@ -22,9 +12,9 @@
 
 > Press Add secret 
 
-> Go to Action > AdityaRDP > Run workflow > Wait for 3s then go to the next step.
+> Go to Action >  Oshekher > Run workflow > Wait for 3s then go to the next step.
 
-> Refresh Web and go to AdityaRDP > build > Wait for 30s then go to the next step.
+> Refresh Web and go to  Oshekher > build > Wait for 30s then go to the next step.
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
  
