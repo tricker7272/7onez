@@ -1,3 +1,6 @@
+Credits to: AdityaGans2542 & Oshekher
+Fixed by: Hieupc
+
 <img src="https://i.imgur.com/djAquTl.png" align="center">
 
 > Press the Fork button to create a Free RDP 6 hours with 2CPU 7GB RAM 256 SSD (For Smartphones, Please Use Desktop Mode).
@@ -23,9 +26,6 @@
 > Use at your own risk.
 
 (Every 6 hours, you just delete the workflow run and then create again - by repeating this step "Go to Action >  7onez > Run workflow > Wait for 3s then go to the next step." to create another free RPD)
-
-Credits to: AdityaGans2542 & Oshekher
-Fixed by: Hieupc
 
 WARNNING: 
 THIS IS ONLY FOR EDUCATIONAL PURPOSES
