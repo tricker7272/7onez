@@ -16,7 +16,7 @@
 
 > Refresh Web and go to  Oshekher > build > Wait for 30s then go to the next step.
 
-> Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
+> Press Down facing arrow button "Thông tin RPD miễn phí của bạn CPU 2 Core - 7GB Ram - 256 SSD." To Get IP, User, Password.
  
 > You can change password of the VPS if you want as normally.
 
