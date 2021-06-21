@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/djAquTl.png" align="center">
 
-> Press the Fork button to create a Free AWS RDP 6 hours with 2CPU 7GB RAM 256 SSD (For Smartphones, Please Use Desktop Mode).
+> Press the Fork button to create a Free RDP 6 hours with 2CPU 7GB RAM 256 SSD (For Smartphones, Please Use Desktop Mode).
 
 > Signup an account at https://ngrok.com to get NGROK_AUTH_TOKEN
 
