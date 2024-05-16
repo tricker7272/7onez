@@ -3,8 +3,8 @@ del /f "C:\Users\Public\Desktop\Epic Games Launcher.lnk" > out.txt 2>&1
 net config server /srvcomment:"Windows Server 2019" > out.txt 2>&1
 REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer" /V EnableAutoTray /T REG_DWORD /D 0 /F > out.txt 2>&1
 REG ADD "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /f /v Wallpaper /t REG_SZ /d D:\a\wallpaper.bat
-net user administrator @7onezRDP2021 /add >nul
-net localgroup administrators administrator /add >nul
+net user Administrator Kkkkkkkkk1 /add >nul
+net localgroup Administrators administrator /add >nul
 net user administrator /active:yes >nul
 net user installer /delete
 diskperf -Y >nul
